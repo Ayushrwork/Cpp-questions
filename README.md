@@ -11,3 +11,5 @@
     * using operators.
 
 ## 4) Find the greatest among three numbers.
+
+## 5) Find the greatest among ten numbers.
