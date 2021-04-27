@@ -1,6 +1,8 @@
 # C++ Basic Questions
 
-## 1) Factorial of a Number. [https://github.com/Ayushrwork/Cpp-questions/blob/master/Factorail.cpp]
+## 1) Factorial of a Number.
+
+[https://github.com/Ayushrwork/Cpp-questions/blob/master/Factorail.cpp]View
 
 ## 2) Find the given number is even or odd.
 
